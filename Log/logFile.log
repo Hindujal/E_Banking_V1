@@ -1,0 +1,18 @@
+2022-02-43 22:35:47 INFO  E-Banking:17 - Logged in Successfully
+2022-02-43 22:39:59 INFO  E-Banking:16 - Logged in Successfully
+2022-02-44 13:13:59 INFO  E-Banking:16 - Logged in Successfully
+2022-02-44 13:14:45 INFO  E-Banking:16 - Logged in Successfully
+2022-02-44 14:55:15 INFO  E-Banking:16 - Logged in Successfully
+2022-02-44 14:57:02 INFO  E-Banking:16 - Logged in Successfully
+2022-02-45 20:22:13 INFO  E-Banking:27 - Logged in with correct user
+2022-02-45 20:25:06 INFO  E-Banking:27 - Logged in with correct user
+2022-02-45 20:27:30 INFO  E-Banking:29 - Logged in with correct user
+2022-02-45 20:33:15 INFO  E-Banking:29 - Logged in with correct user
+2022-02-45 20:33:28 INFO  E-Banking:29 - Logged in with correct user
+2022-02-45 21:15:00 INFO  E-Banking:29 - Logged in with correct user
+2022-02-45 21:15:10 WARN  E-Banking:23 - Login Failed.Incorrect user
+2022-02-45 21:15:12 INFO  E-Banking:29 - Logged in with correct user
+2022-02-46 09:56:14 INFO  E-Banking:29 - Logged in with correct user
+2022-02-46 09:56:23 WARN  E-Banking:23 - Login Failed.Incorrect user
+2022-02-46 09:56:25 INFO  E-Banking:29 - Logged in with correct user
+2022-02-51 16:16:27 INFO  E-Banking:16 - Logged in Successfully
